@@ -1,3 +1,4 @@
+# Sarathy I (192412599)
 # Computer Architecture Project
 
 This repository contains lab assignments and simulations for the **Computer Architecture** course. The work has been completed using the following tools:
